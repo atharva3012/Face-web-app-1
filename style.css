@@ -1,0 +1,14 @@
+body{
+    background-color: palevioletred;
+}
+
+.name_of_object{
+ color: yellow;   
+}
+
+#camera{
+    border: 2px dashed turquoise;
+    height: 300px;
+    width: 350px;
+
+}
